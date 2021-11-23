@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIP/DIP.iml" filepath="$PROJECT_DIR$/DIP/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/ISP.iml" filepath="$PROJECT_DIR$/ISP/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/LSP.iml" filepath="$PROJECT_DIR$/LSP/LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/OCP.iml" filepath="$PROJECT_DIR$/OCP/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP.iml" filepath="$PROJECT_DIR$/SRP/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1_QL.iml" filepath="$PROJECT_DIR$/TP1_QL.iml" />
+    </modules>
+  </component>
+</project>
