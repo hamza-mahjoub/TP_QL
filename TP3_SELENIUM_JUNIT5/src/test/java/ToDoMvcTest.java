@@ -16,6 +16,9 @@ import test.utils.InsertTodoUtils;
 import java.time.Duration;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+
 public class ToDoMvcTest {
 
     WebDriver driver;
@@ -68,7 +71,11 @@ public class ToDoMvcTest {
 
         //Comparing the left item counter to 3
         WebElement itemsLeftCount = driver.findElement(By.xpath("//footer/*/span/strong | //footer/span/strong"));
-        wait.until(ExpectedConditions.textToBePresentInElement(itemsLeftCount,"3"));
+
+        //On peut utiliser assert
+        //assertEquals(itemsLeftCount.getText(),"3");
+
+         wait.until(ExpectedConditions.textToBePresentInElement(itemsLeftCount,"3"));
     }
 
     @AfterEach

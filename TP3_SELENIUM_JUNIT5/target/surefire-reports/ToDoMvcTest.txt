@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ToDoMvcTest
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 131.875 s - in ToDoMvcTest
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 144.972 s - in ToDoMvcTest
