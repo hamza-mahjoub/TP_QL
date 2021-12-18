@@ -19,7 +19,7 @@ _SOLID_ regroupe cinq principes de conception destinés à produire des architec
 
 ## SELENIUM 
  
-La maipulation consiste à un petit scenario sur le site [TunisiaNet](https://www.tunisianet.com.tn/).
+La manipulation consiste à un petit scenario sur le site [TunisiaNet](https://www.tunisianet.com.tn/).
 
 - Création d'un Compte.
 - Authentification.
